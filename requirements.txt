@@ -1,0 +1,15 @@
+numpy
+pandas
+torch
+PIL
+seaborn
+matplotlib
+ultralytics
+zipfile
+cuda
+tensorrt
+cv2
+os
+shutil
+io
+IPython
